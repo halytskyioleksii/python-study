@@ -18,7 +18,7 @@ print(info[2])  # Виведення міста
 def min_max(numbers):
     return min(numbers), max(numbers)
 
-numbers = (5, 6, 12, 8, 1, 4)
+numbers = (5, 6, 9, 57, 2, 96)
 min_value, max_value = min_max(numbers)
 print("Мінімальне значення:", min_value)
 print("Максимальне значення:", max_value)
